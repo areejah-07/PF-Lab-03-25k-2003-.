@@ -1,7 +1,7 @@
 # ABOUT ME 
 **Name: Areejah Afzal**
 
-**Degree Program: Cyber security**
+**Degree Program: Cyber Security**
 
 _**Hobbies:**_
 - Game dev
