@@ -13,4 +13,3 @@ _**Languages I am familiar with**_
 2. C++
 3. HTML
 4. GDScript
-5. Luau
